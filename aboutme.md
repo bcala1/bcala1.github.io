@@ -1,6 +1,7 @@
 ---
 layout: page
-title: A bit more about me and my work
+title: About me
+subtitle: A bit more about me and my work
 ---
 *Fore a more concise overview, see my CV.*
 
