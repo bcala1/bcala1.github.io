@@ -13,6 +13,8 @@ Find out more about me [here](/aboutme.md) or have a look at my [CV](/cv.html).
 ## Updates
 <!-- October 2023: The paper based on my MPhil is now published in Atmospheric Chemistry and Physics. -->
 
+**October 2023:** I submitted the first paper from my PhD! The preprint can be found [here](https://essopenarchive.org/users/676280/articles/673892-synthesis-of-in-situ-marine-calcium-carbonate-dissolution-kinetic-measurements-in-the-water-column).
+
 **April 2023:** I gave [a talk](https://meetingorganizer.copernicus.org/EGU23/EGU23-8433.html) at EGU23 in Vienna! 
 
 **February 2023:**  Field work time! We spent over 3 weeks at sea in the South Atlantic on *RV Pelagia*. [Here](https://www.nioz.nl/en/blog/64pe513-blog-the-beyond-expedition) you can read more about the research and our experiences on board.
