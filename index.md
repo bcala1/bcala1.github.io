@@ -11,7 +11,9 @@ Find out more about me [here](/aboutme.md) or have a look at my [CV](/cv.html).
 
 
 ## Updates
-<!-- October 2023: The paper based on my MPhil is now published in Atmospheric Chemistry and Physics. -->
+<!-- Field work time again! -->
+
+**November 2023:** The paper based on [my MPhil work is now published](https://acp.copernicus.org/articles/23/14735/2023/acp-23-14735-2023.html) in Atmospheric Chemistry and Physics! We compare how dimethyl sulfide (DMS) oxidation is implemented in different models and trying to improve it in UKCA (which is the atmospheric chemistry and aerosol model used in the UK's Earth system model) by adding a newly discovered (and quite important) intermediate  to the oxidation scheme. This might sound a bit boring but DMS might actually be very important in regulating the Earth's climate (check out the [CLAW hypothesis](https://en.wikipedia.org/wiki/CLAW_hypothesis)) but until we don't understand more about the oxidation products of DMS we won't be able to assess how important.
 
 **October 2023:** I submitted the first paper from my PhD! The preprint can be found [here](https://essopenarchive.org/users/676280/articles/673892-synthesis-of-in-situ-marine-calcium-carbonate-dissolution-kinetic-measurements-in-the-water-column).
 
