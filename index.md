@@ -14,7 +14,7 @@ Find out more about me [here](/aboutme.md) or have a look at my [CV](/cv.html).
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ## Updates
-**Febuary 2024:** I am going to OSM24 in New Orleans and will be presenting [a poster](https://agu.confex.com/agu/OSM24/meetingapp.cgi/Paper/1483355).
+**February 2024:** I am going to OSM24 in New Orleans and will be presenting [a poster](https://agu.confex.com/agu/OSM24/meetingapp.cgi/Paper/1483355).
 
 **December 2023/January 2024:** It's again field work time! I am once again in the South Atlantic to pick up my mooring experiment that we left there in February, with all my carbonate mineral samples intact and well (but slightly dissolved). I will be on board the *RRS Discovery* on cruise DY172 for almost 6 weeks.
 
