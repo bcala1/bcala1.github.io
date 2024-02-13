@@ -14,9 +14,11 @@ Find out more about me [here](/aboutme.md) or have a look at my [CV](/cv.html).
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ## Updates
-<!-- **December 2023:** It's again field work time! I am once again in the South Atlantic (and also Southern Ocean this time) to pick up my mooring experiment that we left there in February. I am on board the *RRS Discovery* for almost 6 weeks. -->
+**Febuary 2024:** I am going to OSM24 in New Orleans and will be presenting [a poster](https://agu.confex.com/agu/OSM24/meetingapp.cgi/Paper/1483355).
 
-**November 2023:** The paper based on [my MPhil work is now published](https://acp.copernicus.org/articles/23/14735/2023/acp-23-14735-2023.html) in Atmospheric Chemistry and Physics! We compare how dimethyl sulfide (DMS) oxidation is implemented in different models and trying to improve it in UKCA (which is the atmospheric chemistry and aerosol model used in the UK's Earth system model) by adding a newly discovered (and quite important) intermediate  to the oxidation scheme. So why is this interesting? DMS might be very important in regulating the Earth's climate (check out the [CLAW hypothesis](https://en.wikipedia.org/wiki/CLAW_hypothesis)) but until we don't understand more about the oxidation products of DMS we won't be able to assess its role in our climate system.
+**December 2023/January 2024:** It's again field work time! I am once again in the South Atlantic to pick up my mooring experiment that we left there in February, with all my carbonate mineral samples intact and well (but slightly dissolved). I will be on board the *RRS Discovery* on cruise DY172 for almost 6 weeks.
+
+**November 2023:** The paper based on [my MPhil work is now published](https://acp.copernicus.org/articles/23/14735/2023/acp-23-14735-2023.html) in Atmospheric Chemistry and Physics! We compare how dimethyl sulfide (DMS) oxidation is implemented in different models and trying to improve it in UKCA (which is the atmospheric chemistry and aerosol model used in the UK's Earth system model) by adding the newly discovered (and quite important) intermediate HPMTF to the oxidation scheme. So why is this interesting? DMS might be very important in regulating the Earth's climate (check out the [CLAW hypothesis](https://en.wikipedia.org/wiki/CLAW_hypothesis)) but until we don't understand more about the oxidation products of DMS we won't be able to assess its role in our climate system.
 
 **October 2023:** I submitted the first paper from my PhD! The preprint can be found [here](https://essopenarchive.org/users/676280/articles/673892-synthesis-of-in-situ-marine-calcium-carbonate-dissolution-kinetic-measurements-in-the-water-column).
 
