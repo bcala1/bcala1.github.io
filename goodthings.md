@@ -9,11 +9,11 @@ Not work related. But I like nice things and you probably do too. Ask me about a
 
 This year I am doing the slow read of **Leo Tolstoi's _War and Peace_**, hosted by Simon Haisell on [Substack](https://footnotesandtangents.substack.com/p/war-and-peace). We read a chapter every day, there are daily discussions in the chat and weekly summaries. I'm surprised how much I like the book, it feels so modern and the character descriptions leave me speechless. 
 
-My absolute favourite novel is **_The Idiot_ by Elif Batuman**. (Incidentally, she also started a [newsletter](https://eliflife.substack.com) over on Substack, which I adore. I would have never guessed that I needed a Proust Pep Talk but turns out, this is exactly what I needed and I think about it a lot.) _The Idiot_ is both hilarious and insightful and I've seen it described as the quintessential campus novel. To me it is so much more though; I never write in books but here I had samply no other choice than to underline sentences. 
+My absolute favourite novel is **_The Idiot_ by Elif Batuman**. (Incidentally, she also started a [newsletter](https://eliflife.substack.com) over on Substack, which I adore. I would have never guessed that I needed a Proust Pep Talk but turns out, this is exactly what I needed and I think about it a lot.) _The Idiot_ is both insightful and quietly hilarious, and I've seen it described as the quintessential campus novel. To me it is so much more though; I never write in books but here I had simply no other choice than to underline sentences or entire paragraphs. 
 
-The author whose newly published book I would immediately buy is **Becky Chambers**. Her work fits into the Solarpunk genre (essentially, wholesome Science Fiction). The books she writes are queer, gentle, kind. When I feel overwhelmed or stressed, this is what I am reading. If you need the literary equivalent of a hug, please, go read _A Psalm for the Wild-Built_.
+The author whose new books I would always immediately buy is **Becky Chambers**. Her work fits into the Solarpunk genre (essentially, wholesome Science Fiction). The books she writes are queer, gentle, kind. When I feel overwhelmed or stressed, this is what I am reading. If you need the literary equivalent of a hug, please, go read _A Psalm for the Wild-Built_.
 
-The author I admire the most is the late **Sir Terry Pratchett**. My favourite book from the _Discworld_ series changes regularly but it is always safe to assume that my favourite character Granny Weatherwax and when I travel I simply must re-read _Witches Abroad_.
+The author I admire the most is the late **Sir Terry Pratchett**. My favourite book from the _Discworld_ series changes regularly but it is always safe to assume that my favourite character Granny Weatherwax and when I travel I must re-read _Witches Abroad_.
 
 
 ## Clouds
@@ -24,7 +24,7 @@ Good clouds always cheer me up (and luckily, most clouds are good). Did you know
 
 ## Tea
 
-My favourite tea is currently Milk Oolong, it is so delicate and soft. I especially enjoy the [tea blend](https://www.hebdentea.com/product/milky-oolong/) by Bird&Blend with coconut. 
+Currently, my favourite tea is Milk Oolong, it is so delicate and soft. I especially enjoy the [tea blend](https://www.hebdentea.com/product/milky-oolong/) by Bird&Blend with coconut. 
 
 
 ## Photography
